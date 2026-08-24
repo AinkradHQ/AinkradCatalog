@@ -83,10 +83,10 @@
       "displayName": "Lore",
       "icon": "book.closed",
       "description": "Markdown-native notes for Ainkrad — linked notes, backlinks, full-text search, and import from Apple Notes and Obsidian.",
-      "version": "v0.9.0",
+      "version": "v0.10.0",
       "apiVersion": 8,
-      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradLore/releases/download/v0.9.0/lore.bundle.zip",
-      "sha256": "11ebaae00dcde9a0de4009c2998b14025b445679dbb852750e1046ab78bab890",
+      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradLore/releases/download/v0.10.0/lore.bundle.zip",
+      "sha256": "f0e79585f09005549f8a2fbd3136dc4dae9ea4b1a9d9d79bcae154f7b798da04",
       "sourceRepo": "AhmedMElhalaby/AinkradLore",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Lore is a markdown-native notes workspace for Ainkrad. Your notes are plain .md files in a folder you choose — nothing is locked in a database, and the files stay yours.\n\n• Files are the source of truth — every note is a .md file with YAML frontmatter (id, title, tags, dates); edit them here or in any other editor and Lore reconciles.\n• Linked notes — [[wikilinks]] with completion as you type, a backlinks panel on every note, and links that follow a file when it is renamed.\n• Import what you already have — bring in an Obsidian vault or your Apple Notes library. Lore shows you every file it would write before it writes anything, flags what a conversion cannot carry over, and skips whatever you have already imported, so running it twice never duplicates your notes.\n• Instant search — a local SQLite/FTS5 index mirrors your folder for fast full-text search across titles and bodies, rebuildable at any time.\n• Quick capture — press ⌘N to open a fresh note focused for typing, saved to disk immediately; the fast path for fleeting thoughts.\n• Live-preview editor — a native TextKit 2 editor styles markdown in place as you type: headings, bold/italic, inline code, links, checkboxes and embedded images.\n• Stays in sync — an external change to an open note surfaces a non-destructive reload prompt, so edits from other tools never clobber your work.\n• Theme-matched — colors come from the host's design tokens, so Lore restyles instantly with your active Ainkrad theme; seamless chrome, no separator lines.\n\nApple Notes import asks Notes.app directly and needs your permission under Privacy & Security → Automation. Encrypted (locked) notes are not imported.",
@@ -97,7 +97,7 @@
         },
         {
           "title": "Release notes",
-          "url": "https://github.com/AhmedMElhalaby/AinkradLore/releases/tag/v0.9.0"
+          "url": "https://github.com/AhmedMElhalaby/AinkradLore/releases/tag/v0.10.0"
         }
       ]
     },
