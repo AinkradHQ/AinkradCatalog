@@ -60,10 +60,10 @@
       "displayName": "Leyline",
       "icon": "point.3.connected.trianglepath.dotted",
       "description": "Save SSH connections and keys, open a session in one click, and summon it as an overlay — a Termius-style hub for Ainkrad.",
-      "version": "v0.7.0",
-      "apiVersion": 8,
-      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradLeyline/releases/download/v0.7.0/leyline.bundle.zip",
-      "sha256": "463a82d7d852ae470a3add022e40c187fb536de0a01b9925ae7f5602c013b614",
+      "version": "v0.7.1",
+      "apiVersion": 10,
+      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradLeyline/releases/download/v0.7.1/leyline.bundle.zip",
+      "sha256": "33a0d0439042036c7fa918759c314a0c44872402758635baf7d4533f9aff04a1",
       "sourceRepo": "AhmedMElhalaby/AinkradLeyline",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Leyline is a home for your SSH connections and keys inside Ainkrad, summoned as a floating HUD overlay.\n\n• Connections — save your hosts (label, host, port, username) in a flat, type-to-filter list, with password or key authentication.\n• Key vault — import SSH private keys by file or paste, with an optional passphrase; keys are stored in the macOS Keychain and reused across connections.\n• One-click connect — pick a connection and it opens a live session in the Ainkrad Rune over ssh; copy the ssh command any time.\n• Overlay — summon Leyline as a floating HUD over your workspace, styled to match your active theme.\n\nYour secrets stay safe: passwords, private-key material and passphrases live only in the macOS Keychain, never in the saved connection metadata.",
@@ -74,7 +74,7 @@
         },
         {
           "title": "Release notes",
-          "url": "https://github.com/AhmedMElhalaby/AinkradLeyline/releases/tag/v0.4.5"
+          "url": "https://github.com/AhmedMElhalaby/AinkradLeyline/releases/tag/v0.7.1"
         }
       ]
     },
