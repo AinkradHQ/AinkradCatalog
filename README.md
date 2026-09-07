@@ -23,10 +23,10 @@ updating an app needs only a change here, not a new Ainkrad host release**.
       "apiVersion": 1,                    // host plugin API version
       "downloadURL": "https://…/gitmage.bundle.zip",
       "sha256": "…",                      // sha256 of the bundle zip (integrity check)
-      "sourceRepo": "AhmedMElhalaby/GitMage",
+      "sourceRepo": "AinkradHQ/GitMage",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "detail-page copy",
-      "screenshots": ["https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/…png"],
+      "screenshots": ["https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/…png"],
       "links": [{ "title": "Homepage", "url": "https://…" }]
     }
   ]

@@ -8,20 +8,20 @@
       "description": "A native terminal for Ainkrad — command blocks, theme-matched colors, SwiftTerm-backed.",
       "version": "v0.8.3",
       "apiVersion": 10,
-      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradRune/releases/download/v0.8.3/rune.bundle.zip",
+      "downloadURL": "https://github.com/AinkradHQ/AinkradRune/releases/download/v0.8.3/rune.bundle.zip",
       "sha256": "57a12771a8cb62c20fcef645759a16cd5518ae61a32d7e1a4a02a5167d28dfc7",
-      "sourceRepo": "AhmedMElhalaby/AinkradRune",
+      "sourceRepo": "AinkradHQ/AinkradRune",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Rune brings a full, native command line into your Ainkrad workspace — built on a SwiftTerm-backed emulator, not a web view.\n\n• Command blocks — each command and its output is a distinct, scrollable block you can navigate, re-run, and reason about, instead of one endless stream.\n• Theme-matched — colors are driven by the host's DesignTokens, so the terminal always matches your active Ainkrad theme; switch themes and it restyles instantly without losing scrollback.\n• Real emulation — a proper PTY underneath: interactive programs, colors, resizing, and control sequences all work as expected.\n• Fits the workspace — open it as a floating island, resize freely, and run several alongside your other apps.\n\nDesigned to feel like part of the OS surface — seamless chrome, no separator lines, traffic-lights inside the window.",
       "screenshots": [
-        "https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/rune-blocks.png",
-        "https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/rune-1.png",
-        "https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/rune-ambient.png"
+        "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/rune-blocks.png",
+        "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/rune-1.png",
+        "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/rune-ambient.png"
       ],
       "links": [
         {
           "title": "Source",
-          "url": "https://github.com/AhmedMElhalaby/AinkradRune"
+          "url": "https://github.com/AinkradHQ/AinkradRune"
         }
       ]
     },
@@ -32,26 +32,26 @@
       "description": "A full HUD Git IDE for Ainkrad — changes, history, branches, PRs, issues, worktrees, and an interactive commit graph.",
       "version": "v0.11.0",
       "apiVersion": 10,
-      "downloadURL": "https://github.com/AhmedMElhalaby/GitMage/releases/download/v0.11.0/gitmage.bundle.zip",
+      "downloadURL": "https://github.com/AinkradHQ/GitMage/releases/download/v0.11.0/gitmage.bundle.zip",
       "sha256": "a843d279a9448f27c064b2ed39be7662d93c0461991d15e8ec29884985371bb5",
-      "sourceRepo": "AhmedMElhalaby/GitMage",
+      "sourceRepo": "AinkradHQ/GitMage",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Git Mage is a complete Git workspace for Ainkrad, wrapped in a gaming-HUD interface that feels like part of the OS.\n\nWorkspace\n• Multi-repo library — add as many repositories as you like and switch between them (GitHub-Desktop style), each remembering its own state.\n• Three-pane shell — a nav rail into Changes, History, Stashes, Pull Requests, Issues, Worktrees and Advanced, with full-surface repo and branch management overlays.\n\nEveryday Git\n• Changes — stage/unstage/discard by file or all at once, with a live commit box.\n• History — paginated commit log that loads as you scroll, with a git-graph rail.\n• Branches & Stashes — create, checkout, delete; stash push/pop/apply/drop with per-stash diffs.\n\nReview\n• GitHub-style diff viewer — syntax highlighting, line-number gutter, background-only add/remove tints, and collapsible per-file diffs shared across Changes, History, Stashes and PRs.\n• Interactive worktree commit graph — a real multi-lane branch/merge graph; click any commit to inspect its diff.\n\nGitHub\n• Pull Requests & Issues — search, label filters and pagination via the GitHub API; Conversation / Commits / Files tabs; markdown descriptions and comments; review, merge, comment, close/reopen, labels and assignees.\n\nAdvanced\n• Cherry-pick, revert, reset, rebase and tag management — contextual to the commit you select, with confirm-gated destructive ops.\n\nMade yours\n• Configurable keyboard shortcuts for every action and area, and a configurable typography theme (font family + size) applied live across the whole app.",
       "screenshots": [
-        "https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/gitmage-changes-diff.png",
-        "https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/gitmage-worktree-graph.png",
-        "https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/gitmage-pull-request.png",
-        "https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/gitmage-repo-switcher.png",
-        "https://raw.githubusercontent.com/AhmedMElhalaby/AinkradCatalog/main/screenshots/gitmage-branches.png"
+        "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/gitmage-changes-diff.png",
+        "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/gitmage-worktree-graph.png",
+        "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/gitmage-pull-request.png",
+        "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/gitmage-repo-switcher.png",
+        "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/screenshots/gitmage-branches.png"
       ],
       "links": [
         {
           "title": "Source",
-          "url": "https://github.com/AhmedMElhalaby/GitMage"
+          "url": "https://github.com/AinkradHQ/GitMage"
         },
         {
           "title": "Release notes",
-          "url": "https://github.com/AhmedMElhalaby/GitMage/releases/tag/v0.11.0"
+          "url": "https://github.com/AinkradHQ/GitMage/releases/tag/v0.11.0"
         }
       ]
     },
@@ -62,19 +62,19 @@
       "description": "Save SSH connections and keys, open a session in one click, and summon it as an overlay — a Termius-style hub for Ainkrad.",
       "version": "v0.8.0",
       "apiVersion": 10,
-      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradLeyline/releases/download/v0.8.0/leyline.bundle.zip",
+      "downloadURL": "https://github.com/AinkradHQ/AinkradLeyline/releases/download/v0.8.0/leyline.bundle.zip",
       "sha256": "9779ae90514770dafca7d8103fceb303987b16b28e898c5f370bbc27ed6e7eee",
-      "sourceRepo": "AhmedMElhalaby/AinkradLeyline",
+      "sourceRepo": "AinkradHQ/AinkradLeyline",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Leyline is a home for your SSH connections and keys inside Ainkrad, summoned as a floating HUD overlay.\n\n• Connections — save your hosts (label, host, port, username) in a flat, type-to-filter list, with password or key authentication.\n• Key vault — import SSH private keys by file or paste, with an optional passphrase; keys are stored in the macOS Keychain and reused across connections.\n• One-click connect — pick a connection and it opens a live session in the Ainkrad Rune over ssh; copy the ssh command any time.\n• Overlay — summon Leyline as a floating HUD over your workspace, styled to match your active theme.\n\nYour secrets stay safe: passwords, private-key material and passphrases live only in the macOS Keychain, never in the saved connection metadata.",
       "links": [
         {
           "title": "Source",
-          "url": "https://github.com/AhmedMElhalaby/AinkradLeyline"
+          "url": "https://github.com/AinkradHQ/AinkradLeyline"
         },
         {
           "title": "Release notes",
-          "url": "https://github.com/AhmedMElhalaby/AinkradLeyline/releases/tag/v0.8.0"
+          "url": "https://github.com/AinkradHQ/AinkradLeyline/releases/tag/v0.8.0"
         }
       ]
     },
@@ -85,19 +85,19 @@
       "description": "Markdown-native notes for Ainkrad — linked notes, backlinks, full-text search, and import from Apple Notes and Obsidian.",
       "version": "v0.11.0",
       "apiVersion": 10,
-      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradLore/releases/download/v0.11.0/lore.bundle.zip",
+      "downloadURL": "https://github.com/AinkradHQ/AinkradLore/releases/download/v0.11.0/lore.bundle.zip",
       "sha256": "3c2c03644b91d79a045b96e5cbac67ab4618762556e05722f43803ef41fce80e",
-      "sourceRepo": "AhmedMElhalaby/AinkradLore",
+      "sourceRepo": "AinkradHQ/AinkradLore",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Lore is a markdown-native notes workspace for Ainkrad. Your notes are plain .md files in a folder you choose — nothing is locked in a database, and the files stay yours.\n\n• Files are the source of truth — every note is a .md file with YAML frontmatter (id, title, tags, dates); edit them here or in any other editor and Lore reconciles.\n• Linked notes — [[wikilinks]] with completion as you type, a backlinks panel on every note, and links that follow a file when it is renamed.\n• Import what you already have — bring in an Obsidian vault or your Apple Notes library. Lore shows you every file it would write before it writes anything, flags what a conversion cannot carry over, and skips whatever you have already imported, so running it twice never duplicates your notes.\n• Instant search — a local SQLite/FTS5 index mirrors your folder for fast full-text search across titles and bodies, rebuildable at any time.\n• Quick capture — press ⌘N to open a fresh note focused for typing, saved to disk immediately; the fast path for fleeting thoughts.\n• Live-preview editor — a native TextKit 2 editor styles markdown in place as you type: headings, bold/italic, inline code, links, checkboxes and embedded images.\n• Stays in sync — an external change to an open note surfaces a non-destructive reload prompt, so edits from other tools never clobber your work.\n• Theme-matched — colors come from the host's design tokens, so Lore restyles instantly with your active Ainkrad theme; seamless chrome, no separator lines.\n\nApple Notes import asks Notes.app directly and needs your permission under Privacy & Security → Automation. Encrypted (locked) notes are not imported.",
       "links": [
         {
           "title": "Source",
-          "url": "https://github.com/AhmedMElhalaby/AinkradLore"
+          "url": "https://github.com/AinkradHQ/AinkradLore"
         },
         {
           "title": "Release notes",
-          "url": "https://github.com/AhmedMElhalaby/AinkradLore/releases/tag/v0.11.0"
+          "url": "https://github.com/AinkradHQ/AinkradLore/releases/tag/v0.11.0"
         }
       ]
     },
@@ -108,16 +108,16 @@
       "description": "A native mail client for Ainkrad — IMAP/SMTP and Gmail, with a real offline outbox.",
       "version": "v0.3.0",
       "apiVersion": 10,
-      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradRaven/releases/download/v0.3.0/raven.bundle.zip",
+      "downloadURL": "https://github.com/AinkradHQ/AinkradRaven/releases/download/v0.3.0/raven.bundle.zip",
       "sha256": "5574567af2d7e8acb6ab0c725e59e2d9a0cea6ff5ab8103792be08410a980ad2",
-      "sourceRepo": "AhmedMElhalaby/AinkradRaven",
+      "sourceRepo": "AinkradHQ/AinkradRaven",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Raven brings mail into the Ainkrad workspace as a first-class surface, not a browser tab.\n\nAccounts\n• Connect Gmail with one click — OAuth credentials ship with the build, so there is nothing to paste.\n• Any IMAP/SMTP host by hand, with STARTTLS on a real socket.\n\nSending that survives reality\n• A durable outbox — compose and send with no connection, and the queue drains when you are back.\n• Per-entry delivery: one message failing does not block or duplicate the rest, and mutations survive a relaunch rather than silently reverting.\n\nReading\n• Proper conversation threading, with search across threads.\n• Delta sync and backfill, so a large mailbox fills in without blocking the first read.\n\nFits the workspace\n• Themed by the host's DesignTokens, and sits alongside your other apps rather than taking over the screen.",
       "screenshots": [],
       "links": [
         {
           "title": "Source",
-          "url": "https://github.com/AhmedMElhalaby/AinkradRaven"
+          "url": "https://github.com/AinkradHQ/AinkradRaven"
         }
       ]
     },
@@ -128,16 +128,16 @@
       "description": "Projects, epics, work items and subtasks for Ainkrad — five surfaces, and an MCP surface the assistant can actually drive.",
       "version": "v0.3.0",
       "apiVersion": 10,
-      "downloadURL": "https://github.com/AhmedMElhalaby/AinkradQuest/releases/download/v0.3.0/quest.bundle.zip",
+      "downloadURL": "https://github.com/AinkradHQ/AinkradQuest/releases/download/v0.3.0/quest.bundle.zip",
       "sha256": "18c068cad1e81dd1c813ba25ab0b8eed42c120d390ca743b8d1258890c7122ac",
-      "sourceRepo": "AhmedMElhalaby/AinkradQuest",
+      "sourceRepo": "AinkradHQ/AinkradQuest",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Quest is a work tracker built into Ainkrad — projects, epics, items and subtasks, with five ways to look at them.\n\nFive surfaces\n• Today — a cross-project inbox of what is due or overdue, plus quick capture.\n• Overview, List, Board and Timeline — the same work, seen the way the moment needs.\n\nA model that holds its shape\n• Three levels, capped: a project holds epics, an epic holds items (task, bug, story, chore, spike), an item holds subtasks. A move that would exceed three levels, or file something under its own descendant, is refused rather than silently accepted.\n• Per-project status schemes — board columns belong to the project, not to the app. Software projects get Backlog/Todo/In Progress/In Review/Done; general projects drop In Review. Renaming a status keeps its identity, and removing one that still holds work requires saying where that work goes.\n• Typed links — file, folder, url, repo, branch, PR and commit. Repo-scoped links always carry which repo they belong to, because multi-repo projects are the normal case.\n\nNothing disappears\n• Soft delete throughout: trashing a project or item hides it everywhere but keeps it restorable from the Trash surface.\n\nFor the assistant\n• A full-control MCP surface, so Ainkrad can file, move and close real work instead of writing markdown about it.",
       "screenshots": [],
       "links": [
         {
           "title": "Source",
-          "url": "https://github.com/AhmedMElhalaby/AinkradQuest"
+          "url": "https://github.com/AinkradHQ/AinkradQuest"
         }
       ]
     }
