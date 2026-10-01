@@ -6,10 +6,10 @@
       "displayName": "Rune",
       "icon": "terminal",
       "description": "A native terminal for Ainkrad — command blocks, theme-matched colors, SwiftTerm-backed.",
-      "version": "v0.10.0",
+      "version": "v0.10.1",
       "apiVersion": 11,
-      "downloadURL": "https://github.com/AinkradHQ/AinkradRune/releases/download/v0.10.0/rune.bundle.zip",
-      "sha256": "f75be306c288722013ebc1ce667d8b4b1d6f3c4c72ed4a1ef4923302d2fa681a",
+      "downloadURL": "https://github.com/AinkradHQ/AinkradRune/releases/download/v0.10.1/rune.bundle.zip",
+      "sha256": "3b172e8b25b16e8c11da889cb467a9947838dde95375a0172da77c923834824d",
       "sourceRepo": "AinkradHQ/AinkradRune",
       "author": "Ahmed M. Elhalaby",
       "longDescription": "Rune brings a full, native command line into your Ainkrad workspace — built on a SwiftTerm-backed emulator, not a web view.\n\n• Command blocks — each command and its output is a distinct, scrollable block you can navigate, re-run, and reason about, instead of one endless stream.\n• Theme-matched — colors are driven by the host's DesignTokens, so the terminal always matches your active Ainkrad theme; switch themes and it restyles instantly without losing scrollback.\n• Real emulation — a proper PTY underneath: interactive programs, colors, resizing, and control sequences all work as expected.\n• Fits the workspace — open it as a floating island, resize freely, and run several alongside your other apps.\n\nDesigned to feel like part of the OS surface — seamless chrome, no separator lines, traffic-lights inside the window.",
@@ -158,6 +158,26 @@
         {
           "title": "Source",
           "url": "https://github.com/AinkradHQ/AinkradThrall"
+        }
+      ]
+    },
+    {
+      "appID": "whisper",
+      "displayName": "Whisper",
+      "icon": "bubble.left.and.bubble.right",
+      "description": "Slack, Teams, WhatsApp and Google Meet in one pane, with notifications in Ainkrad and assistant tools.",
+      "version": "v0.1.0",
+      "apiVersion": 11,
+      "downloadURL": "https://github.com/AinkradHQ/AinkradWhisper/releases/download/v0.1.0/whisper.bundle.zip",
+      "sha256": "7f760b3483c6f14c19f2801c536acc8d50776c9d90ca9a47fad1575bad57aaa6",
+      "sourceRepo": "AinkradHQ/AinkradWhisper",
+      "author": "Ahmed M. Elhalaby",
+      "longDescription": "Whisper puts your messengers in one Ainkrad pane: each account runs its service's own web client, so nothing is missing — calls, screen share, files, threads — and none of the desktop apps need to run.\n\nAccounts\n• Slack, Microsoft Teams, WhatsApp, Google Meet, or any web app by address; add the same service more than once.\n• Each account keeps its own login across restarts.\n• Keep an account connected so it notifies while idle, or let it hibernate to save memory.\n\nNotifications\n• Messages arrive as Ainkrad notifications, one per chat, showing the newest message.\n• Clicking one opens that conversation. Calls are marked urgent; no banner for the account you are looking at; mute any account.\n\nCalls\n• Camera, microphone and screen share in Meet, Teams, Slack huddles and WhatsApp.\n\nAssistant\n• The assistant can list your accounts and chats, read and search messages, and list upcoming Teams and Meet events.\n• Sending a message always asks you first.\n\nNeeds Ainkrad 0.25.0 or later.",
+      "screenshots": [],
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://github.com/AinkradHQ/AinkradWhisper"
         }
       ]
     }
