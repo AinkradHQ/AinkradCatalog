@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "glassDark",
+  "name": "Glass Dark",
+  "appearance": "dark",
+  "palette": {
+    "background": "#1E1E1E",
+    "surface": "#2A2A2C",
+    "surfaceElevated": "#3A3A3C",
+    "foreground": "#F5F5F7",
+    "accentPrimary": "#0A84FF",
+    "accentSecondary": "#409CFF",
+    "accentTertiary": "#30D158",
+    "success": "#30D158",
+    "warning": "#FFD60A",
+    "danger": "#FF453A",
+    "black": "#000000",
+    "white": "#FFFFFF"
+  },
+  "terminal": {
+    "background": "#1E1E1E",
+    "foreground": "#E5E5E7",
+    "cursor": "#0A84FF",
+    "selection": "#3F638B",
+    "ansi": [
+      "#737378", "#FF6B6B", "#4CD964", "#FFD60A", "#409CFF", "#BF5AF2", "#64D2FF", "#D1D1D6",
+      "#98989D", "#FF8A80", "#7CE38B", "#FFE066", "#70B7FF", "#DA8FFF", "#8AE2FF", "#FFFFFF"
+    ]
+  },
+  "host": {
+    "iconColorFamily": "blue"
+  }
+}

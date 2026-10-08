@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "glass.light",
+  "name": "macOS Glass",
+  "base": "neonBlue",
+  "material": {
+    "kind": "glass",
+    "panelOpacity": 0.6
+  },
+  "shape": {
+    "style": "continuous",
+    "corners": "all"
+  },
+  "cut": {
+    "c2": 4,
+    "c3": 5,
+    "c4": 6,
+    "c5": 6,
+    "c6": 8,
+    "c7": 8,
+    "c8": 10,
+    "c20": 20,
+    "c22": 22,
+    "r0_10": 0.16,
+    "r0_2": 0.22,
+    "r0_22": 0.225
+  },
+  "effects": {
+    "brackets": {
+      "stroke": "clear",
+      "glow": "clear",
+      "width": 0,
+      "glowRadius": 0
+    },
+    "glowBloom": {
+      "color": "clear",
+      "reducedOpacityColor": "clear"
+    },
+    "panelGlow": [],
+    "scanline": {
+      "staticOpacity": 0,
+      "movingOpacity": 0
+    },
+    "hexGrid": {
+      "opacity": 0,
+      "reducedOpacity": 0
+    },
+    "edgeRing": {
+      "from": "foreground@0.1",
+      "to": "foreground@0.04"
+    }
+  },
+  "chrome": {
+    "overlay": {
+      "edgeFrom": "foreground@0.1",
+      "edgeTo": "foreground@0.04"
+    }
+  },
+  "elevation": {
+    "level1": {
+      "color": "black@0.08",
+      "radius": 6,
+      "x": 0,
+      "y": 2
+    },
+    "level2": {
+      "color": "black@0.14",
+      "radius": 18,
+      "x": 0,
+      "y": 8
+    }
+  },
+  "host": {
+    "language": {
+      "id": "glass",
+      "name": "macOS Glass",
+      "appearance": "light",
+      "defaultColorScheme": "glassLight",
+      "fontFamily": "system",
+      "layout": "islands",
+      "sky": false,
+      "islandArt": false,
+      "paneBackdrop": "material",
+      "appTile": "plain"
+    }
+  }
+}
