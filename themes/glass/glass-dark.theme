@@ -5,7 +5,7 @@
   "base": "neonBlue",
   "material": {
     "kind": "glass",
-    "panelOpacity": 0.55
+    "panelOpacity": 0.3
   },
   "shape": {
     "style": "continuous",
@@ -78,9 +78,9 @@
       "defaultColorScheme": "glassDark",
       "fontFamily": "system",
       "layout": "islands",
-      "sky": false,
-      "islandArt": false,
-      "paneBackdrop": "material",
+      "sky": true,
+      "islandArt": true,
+      "paneBackdrop": "sky",
       "appTile": "plain"
     }
   }
