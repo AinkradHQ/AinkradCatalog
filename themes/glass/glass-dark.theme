@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "glass.dark",
-  "name": "macOS Glass",
+  "name": "Liquid Glass",
   "base": "neonBlue",
   "material": {
     "kind": "glass",
@@ -423,7 +423,7 @@
   "host": {
     "language": {
       "id": "glass",
-      "name": "macOS Glass",
+      "name": "Liquid Glass",
       "appearance": "dark",
       "defaultColorScheme": "glassDark",
       "fontFamily": "system",
