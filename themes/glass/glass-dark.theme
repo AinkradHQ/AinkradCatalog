@@ -11,6 +11,9 @@
     "style": "continuous",
     "corners": "all"
   },
+  "type": {
+    "labelCase": "none"
+  },
   "cut": {
     "c2": 4,
     "c3": 5,
@@ -217,6 +220,9 @@
           "hover": "foreground@0.18",
           "rest": "foreground@0.1"
         }
+      },
+      "metaFont": {
+        "tracking": 0
       }
     },
     "signalToast": {
@@ -294,6 +300,9 @@
           "hover": "foreground@0.18",
           "rest": "foreground@0.1"
         }
+      },
+      "labelFont": {
+        "tracking": 0
       }
     },
     "railItem": {
@@ -322,6 +331,9 @@
         "color": {
           "rest": "foreground@0.1"
         }
+      },
+      "titleFont": {
+        "tracking": 0
       }
     },
     "statusBar": {
@@ -343,17 +355,69 @@
       }
     },
     "sectionHeader": {
-      "tickWidth": 0
+      "tickWidth": 0,
+      "titleFont": {
+        "tracking": 0
+      }
     },
     "formRow": {
       "tickWidth": 0,
       "tickColor": "clear"
     },
     "tabs": {
-      "tickHeight": 0
+      "tickHeight": 0,
+      "labelFont": {
+        "tracking": 0
+      }
     },
     "sectionFrame": {
-      "tickWidth": 0
+      "tickWidth": 0,
+      "titleFont": {
+        "tracking": 0
+      }
+    },
+    "badge": {
+      "font": {
+        "tracking": 0
+      }
+    },
+    "breadcrumb": {
+      "activeFont": {
+        "tracking": 0
+      },
+      "font": {
+        "tracking": 0
+      }
+    },
+    "codeBlock": {
+      "headerFont": {
+        "tracking": 0
+      }
+    },
+    "dataTable": {
+      "headerFont": {
+        "tracking": 0
+      }
+    },
+    "disclosureGroup": {
+      "titleFont": {
+        "tracking": 0
+      }
+    },
+    "meter": {
+      "labelFont": {
+        "tracking": 0
+      }
+    },
+    "signalFeedList": {
+      "dayHeaderFont": {
+        "tracking": 0
+      }
+    },
+    "statRow": {
+      "labelFont": {
+        "tracking": 0
+      }
     }
   },
   "host": {
