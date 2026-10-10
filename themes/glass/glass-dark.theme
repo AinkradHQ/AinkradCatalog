@@ -428,10 +428,12 @@
       "defaultColorScheme": "glassDark",
       "fontFamily": "system",
       "layout": "islands",
-      "sky": true,
-      "islandArt": true,
-      "paneBackdrop": "sky",
-      "appTile": "plain"
+      "sky": false,
+      "islandArt": false,
+      "island": "glass",
+      "paneBackdrop": "material",
+      "appTile": "plain",
+      "windowGlass": true
     }
   }
 }
