@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "glass.dark",
-  "name": "macOS Glass",
+  "name": "Liquid Glass",
   "base": "neonBlue",
   "material": {
     "kind": "glass",
@@ -423,15 +423,17 @@
   "host": {
     "language": {
       "id": "glass",
-      "name": "macOS Glass",
+      "name": "Liquid Glass",
       "appearance": "dark",
       "defaultColorScheme": "glassDark",
       "fontFamily": "system",
       "layout": "islands",
-      "sky": true,
-      "islandArt": true,
-      "paneBackdrop": "sky",
-      "appTile": "plain"
+      "sky": false,
+      "islandArt": false,
+      "island": "glass",
+      "paneBackdrop": "material",
+      "appTile": "plain",
+      "windowGlass": true
     }
   }
 }
