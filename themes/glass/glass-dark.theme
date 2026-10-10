@@ -181,7 +181,8 @@
           "rest": "clear",
           "selected": "clear"
         }
-      }
+      },
+      "markerShape": "Circle"
     },
     "segmentedPicker": {
       "glow": {
@@ -340,6 +341,19 @@
       "titleFont": {
         "tracking": 0
       }
+    },
+    "sectionHeader": {
+      "tickWidth": 0
+    },
+    "formRow": {
+      "tickWidth": 0,
+      "tickColor": "clear"
+    },
+    "tabs": {
+      "tickHeight": 0
+    },
+    "sectionFrame": {
+      "tickWidth": 0
     }
   },
   "host": {
