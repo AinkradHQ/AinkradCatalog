@@ -70,6 +70,292 @@
       "y": 8
     }
   },
+  "components": {
+    "button": {
+      "glow": {
+        "color": {
+          "hover": "clear",
+          "rest": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      },
+      "labelFont": {
+        "tracking": 0
+      }
+    },
+    "checkbox": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "chip": {
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "combobox": {
+      "glow": {
+        "color": {
+          "focused": "clear",
+          "rest": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "groupedSelectTrigger": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "iconButton": {
+      "glow": {
+        "color": {
+          "hover": "clear",
+          "rest": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "iconGlyph": {
+      "stroke": {
+        "color": {
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "multiSelectCheck": {
+      "stroke": {
+        "color": "foreground@0.1"
+      }
+    },
+    "multiSelectTrigger": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "radioGroup": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "markerShape": "Circle"
+    },
+    "segmentedPicker": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "selectTrigger": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "signalFeedRow": {
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "signalToast": {
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      },
+      "failureStrokeColor": "foreground@0.1"
+    },
+    "stepper": {
+      "stroke": {
+        "color": "foreground@0.1"
+      }
+    },
+    "swatchChip": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "rest": "foreground@0.1",
+          "hover": "foreground@0.18"
+        }
+      }
+    },
+    "textArea": {
+      "glow": {
+        "color": {
+          "focused": "clear",
+          "rest": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "toast": {
+      "glow": {
+        "color": "clear"
+      },
+      "stroke": {
+        "color": "foreground@0.1"
+      }
+    },
+    "toggle": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "toggleButton": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "railItem": {
+      "glow": {
+        "color": {
+          "hover": "clear",
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "hover": "foreground@0.18",
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "commandMenuRow": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      },
+      "stroke": {
+        "color": {
+          "rest": "foreground@0.1"
+        }
+      }
+    },
+    "statusBar": {
+      "glow": {
+        "color": {
+          "rest": "clear",
+          "selected": "clear"
+        }
+      }
+    },
+    "spinner": {
+      "glow": {
+        "color": "clear"
+      }
+    },
+    "confirmDialog": {
+      "titleFont": {
+        "tracking": 0
+      }
+    },
+    "sectionHeader": {
+      "tickWidth": 0
+    },
+    "formRow": {
+      "tickWidth": 0,
+      "tickColor": "clear"
+    },
+    "tabs": {
+      "tickHeight": 0
+    },
+    "sectionFrame": {
+      "tickWidth": 0
+    }
+  },
   "host": {
     "language": {
       "id": "glass",
