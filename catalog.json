@@ -185,14 +185,14 @@
       "appID": "grimoire",
       "displayName": "Grimoire",
       "icon": "book.closed",
-      "description": "Claude Code in a native window: threads, live turns, approvals, review and commit.",
+      "description": "Claude Code and Codex in a native window: threads, live turns, approvals, review and commit.",
       "version": "v0.2.0",
       "apiVersion": 12,
       "downloadURL": "https://github.com/AinkradHQ/AinkradGrimoire/releases/download/v0.2.0/grimoire.bundle.zip",
       "sha256": "c2f3cfc5771603ca209128c032c1145079a6f82325da469596f3d117f4323b4a",
       "sourceRepo": "AinkradHQ/AinkradGrimoire",
       "author": "Ahmed M. Elhalaby",
-      "longDescription": "Grimoire puts Claude Code in a native Ainkrad window. It drives the claude CLI you already have, over its own protocol, so threads live in Claude Code's own history: sessions you start in the terminal show up here, and Grimoire's threads resume from the terminal.\n\nThreads\n• Projects and threads from your Claude Code history; search; open any folder.\n• Live turns: streamed answers, tool cards with diffs and output, the agent's plan.\n• Approvals docked above the composer: allow once, always allow, or deny.\n• / for Claude Code's commands and skills, @ for files; mode and model switches; stop.\n\nWork\n• New threads in any project, optionally in their own git worktree; fork a thread.\n• Review what changed this turn, in the thread, or uncommitted; comment back to the agent; revert; commit and open a pull request.\n• Open a terminal in the thread's folder with Rune.\n• A notification when a thread needs you; usage limits in Settings.\n\nNeeds Ainkrad 0.31.0 or later and Claude Code installed. Codex, OpenCode and agy are coming.",
+      "longDescription": "Grimoire puts Claude Code and Codex in a native Ainkrad window. It drives the CLIs you already have, over their own protocols, so threads live in each CLI's own history: sessions you start in the terminal show up here, and Grimoire's threads resume from the terminal.\n\nThreads\n• Projects and threads from your Claude Code and Codex history, badged by agent; search; open any folder.\n• Live turns: streamed answers, tool cards with diffs and output, the agent's plan.\n• Approvals docked above the composer: allow once, always allow, or deny.\n• / for Claude Code's commands and skills, @ for files; mode and model switches; stop.\n\nWork\n• New threads in any project, optionally in their own git worktree; fork a thread.\n• Review what changed this turn, in the thread, or uncommitted; comment back to the agent; revert; commit and open a pull request.\n• Open a terminal in the thread's folder with Rune.\n• A notification when a thread needs you; usage limits in Settings.\n\nNeeds Ainkrad 0.31.0 or later and Claude Code or Codex installed. OpenCode and agy are coming.",
       "screenshots": [],
       "links": [
         {
