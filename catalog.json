@@ -188,13 +188,13 @@
       "kind": "theme",
       "displayName": "macOS Glass",
       "description": "Apple's Liquid Glass: glass controls over an opaque, calm workspace. System font, rounded corners, clear glass app icons. Dark.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "author": "Ahmed M. Elhalaby",
-      "format": 1,
+      "format": 2,
       "files": [
         {
           "url": "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/themes/glass/glass-dark.theme",
-          "sha256": "a3abf03abe499fa17df326435d057c721f14a572c14190635ffc88179f5aa958"
+          "sha256": "3cf832ad29803931a93081527bb41437faa5d91633014e7e6e8a692c4491e4e8"
         },
         {
           "url": "https://raw.githubusercontent.com/AinkradHQ/AinkradCatalog/main/themes/glass/glass-dark.scheme",
