@@ -11,6 +11,7 @@
     "accentPrimary": "#0A84FF",
     "accentSecondary": "#409CFF",
     "accentTertiary": "#30D158",
+    "accentViolet": "#BF5AF2",
     "success": "#30D158",
     "warning": "#FFD60A",
     "danger": "#FF453A",
